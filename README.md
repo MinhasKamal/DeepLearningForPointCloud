@@ -1,6 +1,8 @@
 # A Systematic Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation
 #### Minhas Kamal, Hiranya Garbha Kumar, Balakrishnan Prabhakaran
 
+[Paper (acm)](https://dl.acm.org/doi/epdf/10.1145/3815180) | [Paper (arxiv)](https://arxiv.org/abs/2605.17131)
+
 We surveyed a decade of advancements in point cloud processing: trace the evolution of the field from its foundational roots to the modern SOTA, analyze how diverse architectures overcome the inherent geometric challenges of 3D data, and map out critical research gaps alongside promising future directions.
 
 ## Point Cloud
