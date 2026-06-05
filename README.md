@@ -1,9 +1,9 @@
-# A Systematic Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation
+# A Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation
 #### Minhas Kamal, Hiranya Garbha Kumar, Balakrishnan Prabhakaran
 
 [Paper (acm)](https://dl.acm.org/doi/epdf/10.1145/3815180) | [Paper (arxiv)](https://arxiv.org/abs/2605.17131)
 
-We surveyed a decade of advancements in point cloud processing: trace the evolution of the field from its foundational roots to the modern SOTA, analyze how diverse architectures overcome the inherent geometric challenges of 3D data, and map out critical research gaps alongside promising future directions.
+We reviewed a decade of advancements in point cloud processing: trace the evolution of the field from its foundational roots to the modern SOTA, analyze how diverse architectures overcome the inherent geometric challenges of 3D data, and map out critical research gaps alongside promising future directions.
 
 ## Point Cloud
 Point cloud data depicts the surface geometry of an object as a set of discrete data points defined in Cartesian coordinates. Each point has spatial coordinates and may include additional attributes such as color or normal. Although point clouds can be used for any dimensional surface representation, here, we are only considering 3D space. So, a point cloud can be mathematically represented as a set of 3D points:
@@ -75,12 +75,12 @@ Advancing end-to-end frameworks for 3D object detection and tracking is similarl
     author = {Kamal, Minhas and Kumar, Hiranya Garbha and Prabhakaran, Balakrishnan},
     title = {A Systematic Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation},
     year = {2026},
-    month = may,
-    publisher = {Association for Computing Machinery},
+    month = {May},
+    publisher = {Association for Computing Machinery (ACM)},
+    journal = {ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
     address = {New York, NY, USA},
     issn = {1551-6857},
-    journal = {ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
-    doi = {https://doi.org/10.1145/3815180}
+    doi = {10.1145/3815180}
 }
 ```
 
