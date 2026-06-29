@@ -96,3 +96,7 @@ Advancing end-to-end frameworks for 3D object detection and tracking is similarl
     doi = {10.1109/MMUL.2024.3413395}
 }
 ```
+
+
+
+See more of my research works on [GoogleScholar](https://scholar.google.com/citations?user=SZxTaQgAAAAJ). I also write about AI on [Medium](https://medium.com/@minhaskamal).
